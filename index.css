@@ -1,0 +1,91 @@
+body {
+  font-family: Cambria;
+  font-size: 20px;
+  background: #ffbcfb;
+  color: #452443;
+  text-align: center;
+  justify-content: center;
+  line-height: 1.5;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.box {
+  float: center;
+  background-color: #e709ca3a;
+  padding: 20px;
+  border-radius: 55px;
+}
+
+.maincontent {
+  margin-top: 30px;
+}
+
+.night-mode {
+  background-color: #7a0b71;
+  color: #f7f5f7;
+}
+
+#toggle-mode {
+  padding: 10px;
+  margin-top: 10px;
+  background: #eb3fe0;
+  color: #f6d6f4;
+  border-radius: 14px;
+  cursor: pointer;
+  font-family: Georgia;
+  font-size: 15px;
+  width: 25%;
+}
+
+#toggle-mode:hover {
+  background: #f6d6f4;
+  color: #eb3fe0;
+}
+
+#about-page {padding: 10px;
+  margin-top: 10px;
+  background: #eb3fe0;
+  color: #f6d6f4;
+  border-radius: 14px;
+  cursor: pointer;
+  font-family: Georgia;
+  font-size: 15px;
+  width: 25%;
+}
+
+#about-page:hover {
+  background: #f6d6f4;
+  color: #eb3fe0;
+}
+
+#resume-page {padding: 10px;
+  margin-top: 10px;
+  background: #eb3fe0;
+  color: #f6d6f4;
+  border-radius: 14px;
+  cursor: pointer;
+  font-family: Georgia;
+  font-size: 15px;
+  width: 25%;
+}
+
+#resume-page:hover {
+  background: #f6d6f4;
+  color: #eb3fe0;
+}
+
+#contact-page {padding: 10px;
+  margin-top: 10px;
+  background: #eb3fe0;
+  color: #f6d6f4;
+  border-radius: 14px;
+  cursor: pointer;
+  font-family: Georgia;
+  font-size: 15px;
+  width: 25%;
+}
+
+#contact-page:hover {
+  background: #f6d6f4;
+  color: #eb3fe0;
+}
