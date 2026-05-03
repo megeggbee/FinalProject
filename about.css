@@ -1,0 +1,112 @@
+body {
+  font-family: Cambria;
+  font-size: 20px;
+  background: #f9f5ad;
+  color: #000000;
+  text-align: center;
+  justify-content: center;
+  line-height: 1.5;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+h1 {
+  color: #000000;
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  border-top: #3020da 6px solid; 
+  border-bottom: #3020da 6px solid; 
+}
+
+h2 {
+  color: #000000;
+  font-size: 1.8em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border-top: 6px solid #3020da;
+  border-bottom: 6px solid #3020da;
+  padding-bottom: 5px;
+}
+
+p {
+  font-size: 1.2em;
+  color: #000000;
+  font-weight: bold;
+  line-height: 1.6;
+  margin-bottom: 15px;
+  border-bottom: #3020da 6px solid; 
+}
+
+.night-mode {
+  background-color: #c9a70c;
+  color: #ffffff;
+}
+
+#toggle-mode {
+  padding: 10px;
+  margin-top: 10px;
+  background: #3020da;
+  color: #ffffff;
+  border-radius: 14px;
+  cursor: pointer;
+  font-family: Georgia;
+  font-size: 15px;
+  width: 25%;
+}
+
+#toggle-mode:hover {
+  background: #5243f7;
+  color: #ffffff;
+}
+
+#about-page {padding: 10px;
+  margin-top: 10px;
+  background: #3020da;
+  color: #ffffff;
+  border-radius: 14px;
+  cursor: pointer;
+  font-family: Georgia;
+  font-size: 15px;
+  width: 25%;
+}
+
+#about-page:hover {
+  background: #5243f7;
+  color: #ffffff;
+}
+
+#resume-page {padding: 10px;
+  margin-top: 10px;
+  background: #3020da;
+  color: #ffffff;
+  border-radius: 14px;
+  cursor: pointer;
+  font-family: Georgia;
+  font-size: 15px;
+  width: 25%;
+}
+
+#resume-page:hover {
+  background: #5243f7;
+  color: #ffffff;
+}
+
+#contact-page {padding: 10px;
+  margin-top: 10px;
+  background: #3020da;
+  color: #ffffff;
+  border-radius: 14px;
+  cursor: pointer;
+  font-family: Georgia;
+  font-size: 15px;
+  width: 25%;
+}
+
+#contact-page:hover {
+  background: #5243f7;
+  color: #ffffff;
+}
+
+img {
+  border-radius: 45px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
