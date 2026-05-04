@@ -11,10 +11,10 @@ body {
 
 .box {
   float: center;
-  background-color: #c37df5;
+  background-color: #a469cf;
   padding: 20px;
   border-radius: 55px;
-  box-shadow: 0 8px 12px #f24be7;
+  box-shadow: 0 8px 12px #a333f2;
 }
 
 .container {
