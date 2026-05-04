@@ -17,6 +17,13 @@ body {
   box-shadow: 0 8px 12px #aa38fc;
 }
 
+.faq-answer {
+  display: none;
+}
+.faq-answer.show {
+  display: block;
+}
+
 .container {
   float: center;
   background-color: #8e05f0;
