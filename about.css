@@ -195,11 +195,3 @@ img {
   opacity: 0.5;
   transition: opacity ease 250ms;
 }
-
-.slider-nav a:hover {
-  opacity: 0.75;
-}
-
-.slider-nav a.active {
-  opacity: 1;
-}
