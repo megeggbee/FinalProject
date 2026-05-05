@@ -145,10 +145,6 @@ img {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.container {
-	padding: 40px;
-}
-
 .slider-wrapper {
   position: relative;
   max-width: 50rem;
