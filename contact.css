@@ -18,13 +18,16 @@ h1 {
 }
 
 .box {
-  float: center;
   width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
   background-color:#60b818;
   border-radius: 100px;
   box-shadow: 0 8px 12px #75e01d;
+  text-align: center;
+
 }
-  
+
 img {
   border-radius: 45px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -115,6 +118,5 @@ img {
   background: #b4f084;
   color: #000000;
 }
-
 
 
