@@ -17,21 +17,34 @@ body {
   box-shadow: 0 8px 12px #aa38fc;
 }
 
+
+.faq-question {
+  padding: 10px;
+  margin-top: 10px;
+  background: #8a20d6;
+  color: #f5f5f5;
+  border-radius: 14px;
+  cursor: pointer;
+  font-family: Georgia;
+  font-size: 15px;
+  width: 100%;
+}
+
+
+.faq-question:hover {
+  background: #b084cf;
+  color: #f5f5f5;
+}
+
 .faq-answer {
   display: none;
+  font-family: Georgia;
+  font-size: 15px;
+  text-align: left;
 }
 .faq-answer.show {
   display: block;
 }
-
-.container {
-  float: center;
-  background-color: #8e05f0;
-  padding: 20px;
-  border-radius: 55px;
-  box-shadow: 0 8px 12px #f24be7;
-}
-
 
 .row {
   display: flex;
@@ -81,7 +94,7 @@ img {
 #toggle-mode {
   padding: 10px;
   margin-top: 10px;
-  background: #a166cc;
+  background: #8a20d6;
   color: #f5f5f5;
   border-radius: 14px;
   cursor: pointer;
@@ -95,9 +108,10 @@ img {
   color: #f5f5f5;
 }
 
-#about-page {padding: 10px;
+#about-page {
+  padding: 10px;
   margin-top: 10px;
-  background: #a166cc;
+  background: #8a20d6;
   color: #f5f5f5;
   border-radius: 14px;
   cursor: pointer;
@@ -111,9 +125,10 @@ img {
   color: #f5f5f5;
 }
 
-#resume-page {padding: 10px;
+#resume-page {
+  padding: 10px;
   margin-top: 10px;
-  background: #a166cc;
+  background: #8a20d6;
   color: #f5f5f5;
   border-radius: 14px;
   cursor: pointer;
@@ -128,9 +143,10 @@ img {
 }
 
 
-#home-page {padding: 10px;
+#home-page {
+  padding: 10px;
   margin-top: 10px;
-  background: #a166cc;
+  background: #8a20d6;
   color: #f5f5f5;
   border-radius: 14px;
   cursor: pointer;
@@ -146,7 +162,7 @@ img {
 
 #contact-page {padding: 10px;
   margin-top: 10px;
-  background: #a166cc;
+  background: #8a20d6;
   color: #f5f5f5;
   border-radius: 14px;
   cursor: pointer;
