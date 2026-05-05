@@ -18,15 +18,14 @@ h1 {
 }
 
 .box {
-  width: fit-content;
-  margin-left: auto;
-  margin-right: auto;
-  background-color:#43bafa;
-  border-radius: 100px;
+  float: center;
+  background-color: #43bafa;
+  padding: 20px;
+  border-radius: 55px;
   box-shadow: 0 8px 12px #00a6ff;
-  text-align: center;
-
 }
+
+
 
 img {
   border-radius: 45px;
