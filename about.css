@@ -43,14 +43,7 @@ p {
   padding: 20px;
   border-radius: 100px;
   box-shadow: 0 8px 12px #055b5e;
-}
-
-.container {
-  float: center;
-  width: fit-content;
-  background-color: #20d4da;
-  border-radius: 100px;
-  box-shadow: 0 8px 12px #055b5e;
+  justify-content: center;
 }
 
 .night-mode {
@@ -143,10 +136,6 @@ p {
 img {
   border-radius: 45px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.container {
-	padding: 40px;
 }
 
 .slider-wrapper {
