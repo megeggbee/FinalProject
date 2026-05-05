@@ -18,7 +18,7 @@ h1 {
 }
 
 .box {
-  float: center;
+  margin: 20px;
   background-color: #43bafa;
   padding: 20px;
   border-radius: 55px;
@@ -122,4 +122,13 @@ img {
   color: #000000;
 }
 
-
+.slider {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+}
+.slider img {
+  scroll-snap-align: start;
+  flex-shrink: 0;
+}
